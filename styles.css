@@ -1,0 +1,79 @@
+body {
+    font-family:helvetica;
+    background-color:rgb(37, 37, 37);
+}
+
+p {
+    color: azure;
+    word-spacing: 2;
+    height: 14;
+}
+
+h2 {
+    color: azure;
+    word-spacing: 2;
+    height: 14;
+}
+
+nav
+{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      border-bottom: 1px solid ;
+      border-color: white ;
+}
+
+blockquote {
+    background: #0f0b0b;
+    padding: 0.5em 10px;
+    display: flexbox;
+    border: 2px solid rgb(48, 36, 36);
+    gap: 12px;
+    padding: 1px 16px 32px 16px;
+    
+}
+
+blockquote p 
+{
+   color: azure; 
+   display: flex;
+}
+
+.object_name
+{
+   color: orange; 
+   display: flex;
+}
+
+blockquote h2 
+{
+   color: orangered; 
+   border: 5px solid rgb(48, 36, 36);
+   padding: 8px 22px 16px 22px;
+   display: flex;
+
+}
+
+blockquote img {
+    padding: 8px 22px 16px 22px;
+    size: 100%;
+    padding: 0.5em 10px;
+    gap: 12px;
+    display: flex;
+}
+
+button
+{
+height: 60px;
+background-color: transparent;
+border: 1px solid white;
+font-family: helvetica;
+align-items: center;
+gap: 12px;
+height: 40px;
+padding: 0 16px 0 12px;
+}
+
+
+  
