@@ -38,6 +38,8 @@ blockquote p
 {
    color: azure; 
    display: flex;
+   word-spacing: 2;
+   height: 14;
 }
 
 .object_name
