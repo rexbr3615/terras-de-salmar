@@ -123,4 +123,8 @@ margin-left: 16px;
     font-size: 120%;
 }
     
-}  
+} 
+
+a {
+    color: rgb(255, 72, 0);
+}
