@@ -8,7 +8,7 @@ p {
     word-spacing: 2;
     height: 14;
     margin-left: 16px;
-    
+    font-size: 100%;
 }
 
 h2 {
@@ -71,8 +71,8 @@ blockquote img {
 button
 {
 height: 60px;
-background-color: transparent;
-border: 1px solid white;
+background-color: black;
+border: 2.5px solid white;
 font-family: helvetica;
 align-items: center;
 gap: 12px;
@@ -85,5 +85,42 @@ li {
     margin-left: 16px;
 }
 
+.button_2
+{
+height: 60px;
+background-color: black;
+border: 5px solid rgb(48, 36, 36);
+font-family: helvetica;
+align-items: center;
+gap: 12px;
+height: 40px;
+padding: 0 16px 0 12px;
+margin-left: 16px;
+}
 
-  
+
+@media (max-width: 768px)  {
+
+    p {
+       color: azure;
+    word-spacing: 2;
+    height: 14;
+    margin-left: 16px;
+    font-size: 150%; 
+    }
+
+    button
+    {
+    height: 60px;
+    background-color: black;
+    border: 2.5px solid white;
+    font-family: helvetica;
+    align-items: center;
+    gap: 12px;
+    height: 40px;
+    padding: 0 16px 0 12px;
+    margin-left: 16px;
+    font-size: 120%;
+}
+    
+}  
