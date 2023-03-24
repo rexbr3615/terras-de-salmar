@@ -128,3 +128,9 @@ margin-left: 16px;
 a {
     color: rgb(255, 72, 0);
 }
+
+.hr22 {
+    display:inline-flex;
+    height: 50px;
+    margin-bottom: -25px;
+}
