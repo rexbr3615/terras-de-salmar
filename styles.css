@@ -12,6 +12,10 @@ p {
     font-size: 100%;
 }
 
+.catalogue_button {
+  margin-left: 95px;
+}
+
 h2 {
     color: azure;
     word-spacing: 2;
