@@ -246,3 +246,10 @@ div button {
   padding: 0 16px 0 12px;
   margin-left: 96px;
 }
+
+.nevermind_series_c {
+  background:url(images/D2.png);
+  background-size: cover;
+  width: 155px;
+  height: 155px;
+}
