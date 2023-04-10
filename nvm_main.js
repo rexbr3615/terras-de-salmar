@@ -14,12 +14,3 @@ let likesAmount = 0;
 //  likesAmountLabel.innerHTML = likesAmount;
 // }); 
 
-heartIcon.addEventListener("click", () => {
-heartIcon.classList.toggle("liked");
-if (heartIcon.classList.contains("liked")) {
- likesAmount++;
-} 
-
-likesAmountLabel.innerHTML = likesAmount;
-}); 
-  
