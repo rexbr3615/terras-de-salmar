@@ -111,7 +111,9 @@ margin-left: 16px;
     word-spacing: 2;
     height: 14;
     margin-left: 16px;
-    font-size: 105%; 
+    font-size: 75%; 
+    margin-left: 95px;
+    margin-right: 3px;
     }
 
     button
@@ -124,9 +126,43 @@ margin-left: 16px;
     gap: 12px;
     height: 40px;
     padding: 0 16px 0 12px;
-    margin-left: 16px;
-    font-size: 120%;
-}
+    margin-left: 95px;
+    font-size: 75%;
+  }
+
+  .catalogue_button {
+    margin-left: 95px;
+  }
+
+  .nevermind_series {
+    background:url(images/D2.png);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+  }
+
+  .nevermind_series_c {
+    background:url(images/D2.png);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+  }
+
+  
+   
+  
+ 
+  
+   
+  
+   
+  
+   
+  
+   
+   
+  
+
     
 } 
 
