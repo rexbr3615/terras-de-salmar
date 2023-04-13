@@ -257,3 +257,11 @@ div button {
   width: 155px;
   height: 155px;
 }
+
+.ECL_VERSION {
+  font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    color: #888;
+    font-weight: 900;
+    margin-left: 95px;
+}

@@ -14,3 +14,5 @@ let likesAmount = 0;
 //  likesAmountLabel.innerHTML = likesAmount;
 // }); 
 
+var version = 0.1;
+
