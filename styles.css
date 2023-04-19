@@ -301,3 +301,8 @@ div button {
     font-weight: 900;
     margin-left: 95px;
 }
+
+img {
+  margin-left: 95px;
+  border: 5px solid rgb(48, 36, 36);
+}
