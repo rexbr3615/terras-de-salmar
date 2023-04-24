@@ -1,17 +1,23 @@
 Guilherme (X) - cabelo.preto   olhos.pretos                personalidade.timido                            Y.16
+{VOID}
 
-Lilith  - cabelo.loiro_suave   olhos.verde                personalidade.meio_pervertida_&_gentil_bondosa   Y.16
-Aurora  - cabelo.loiro_suave   olhos.vermelho_escarlate   personalidade.gentil_bondosa                     Y.16.5
-lily    - cabelo.azul_transp   olhos.azul_celeste         personalidade.sonolenta                          Y.13
+Lilith  - cabelo.loiro_suave   olhos.verde                personalidade.meio_pervertida_&_gentil_bondosa   Y.16 
+{NATURA}
 
-Iris  - cabelo.chocolate   olhos.caramelo                 personalidade.dedicada   Y.15
-Wendy  - cabelo.branco   olhos.vermelho                   personalidade.preguiçosa   Y.12
+Aurora  - cabelo.loiro_suave   olhos.vermelho_escarlate   personalidade.gentil_bondosa                     Y.16.5  {CRYOGENIC}
+
+lily    - cabelo.azul_transp   olhos.azul_celeste         personalidade.sonolenta                          Y.13 
+{---} 
+
+Iris  - cabelo.chocolate   olhos.caramelo                 personalidade.dedicada     Y.15    {FIRE}
+Wendy  - cabelo.branco   olhos.vermelho                   personalidade.preguiçosa   Y.12    {BLOOD}  (Vampire)
 
 Isis (Y) - cabelo.branco   olhos.azuis_bem_claro          personalidade.amorosa_timida_&_rapida_&_calma    Y.16
+{LUX}
 
 
 
-NPC
+NPC & OTHER OFC
 
 
 lucye - recepcionista. 
