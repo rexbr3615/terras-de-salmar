@@ -148,26 +148,17 @@ margin-left: 16px;
     height: 100px;
   }
 
-  
-   
-  
- 
-  
-   
-  
-   
-  
-   
-  
-   
-   
-  
 
     
 } 
 
 a {
-    color: rgb(255, 72, 0);
+    color: rgb(255, 72, 0); 
+}
+
+.arefbynvm {
+  margin-left: 95px;
+  color: rgb(255, 72, 0); 
 }
 
 .hr22 {
