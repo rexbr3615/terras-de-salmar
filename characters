@@ -6,11 +6,11 @@ Lilith  - cabelo.loiro_suave   olhos.verde                personalidade.meio_per
 
 Aurora  - cabelo.loiro_suave   olhos.vermelho_escarlate   personalidade.gentil_bondosa                     Y.16.5  {CRYOGENIC}
 
-lily    - cabelo.azul_transp   olhos.azul_celeste         personalidade.sonolenta                          Y.13 
+lily    - cabelo.azul_transp   olhos.azul_celeste         personalidade.sonolenta                          Y.14 
 {---} 
 
 Iris  - cabelo.chocolate   olhos.caramelo                 personalidade.dedicada     Y.15    {ELECTRUM}
-Wendy  - cabelo.branco   olhos.vermelho                   personalidade.preguiçosa   Y.13    {BLOOD}  (Vampire)
+Wendy  - cabelo.branco   olhos.vermelho                   personalidade.preguiçosa   Y.14    {BLOOD}  (Vampire)
 
 Isis (Y) - cabelo.branco   olhos.azuis_bem_claro          personalidade.amorosa_timida_&_rapida_&_calma    Y.16
 {LUX}
@@ -49,8 +49,6 @@ Sophia(sophys) - heroina.
 noah - heroi.
 
 leon - espadachim
-
-lily - sacerdote
 
 
 ENTITYES
