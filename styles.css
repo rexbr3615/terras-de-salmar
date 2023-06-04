@@ -132,7 +132,7 @@ margin-left: 16px;
     height: 40px;
     padding: 0 16px 0 12px;
     margin-left: 95px;
-    font-size: 75%;
+    font-size: 85%;
   }
 
   .catalogue_button {
@@ -142,20 +142,33 @@ margin-left: 16px;
   .nevermind_series {
     background:url(images/D2.png);
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
   }
 
   .nevermind_series_c {
     background:url(images/D2.png);
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
   }
+
+  
+   
+  .menu:hover {
+    width: 200px;
+  }
+   
+  
 
 
     
 } 
+
+
+a:hover {
+  color: blueviolet;
+}
 
 a {
     color: rgb(255, 72, 0); 
