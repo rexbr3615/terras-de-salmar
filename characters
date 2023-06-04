@@ -1,25 +1,28 @@
-Guilherme (X) - cabelo.preto   olhos.pretos                personalidade.timido                            Y.16
-{VOID}
+Guilherme (X) - cabelo.preto   olhos.pretos                personalidade.timido Y.16 {VOID}  SKYLANDER_PRIMORDIAL
 
 Lilith  - cabelo.loiro_suave   olhos.verde                personalidade.meio_pervertida_&_gentil_bondosa   Y.16 
-{NATURA}
+{NATURA}  DEMONIO
 
-Aurora  - cabelo.loiro_suave   olhos.vermelho_escarlate   personalidade.gentil_bondosa                     Y.16.5  {CRYOGENIC}
+Aurora  - cabelo.loiro_suave   olhos.vermelho_escarlate   personalidade.gentil_bondosa                     Y.16.5  {CRYOGENIC}   DEMONIO
 
 lily    - cabelo.azul_transp   olhos.azul_celeste         personalidade.calma   Y.14 
 {LUX} 
 
-Luna -  cabelo.lilas olhos.lilas  personalidade.sonolenta  Y.15 {WATER}
+Luna -  cabelo.lilas olhos.lilas  personalidade.sonolenta  Y.15 {WATER}  HUMANA
 
-Iris  - cabelo.chocolate   olhos.caramelo                 personalidade.dedicada     Y.15    {ELECTRUM}
+Iris  - cabelo.chocolate   olhos.caramelo                 personalidade.dedicada     Y.15    {ELECTRUM} HUAMANA
 
-Wendy  - cabelo.branco   olhos.vermelho                   personalidade.preguiçosa & leal   Y.14    {BLOOD}  (Vampire)
+Wendy  - cabelo.branco   olhos.vermelho            personalidade.preguiçosa & leal   Y.14    {BLOOD}  VAMPIRA
 
-Isis (Y) - cabelo.branco   olhos.azuis_bem_claro   personalidade.amorosa_timida_&_rapida_&_calma    Y.16{LUX}
+Isis (Y) - cabelo.branco   olhos.azuis_bem_claro   personalidade.amorosa_timida_&_rapida_&_calma    Y.16{LUX} SKYLANDER_PRIMORDIAL
 
-ayumi - cabelo.castanho   olhos.verde_esmeralda   Y_a.8   Y_current.15  {PLAZMA}
+ayumi - cabelo.castanho   olhos.verde_esmeralda   Y_a.8   Y_current.15  {PLAZMA} F HUMANA
 
-leon - cabelo.azul olhos.verde y_a.12  Y_current.19 {WATER}
+leon - cabelo.azul olhos.verde y_a.12  Y_current.19 {WATER} M HUMANO
+
+crystal - cabelo.cristaline_dark olhos.cristaline_dark y.16 {------} F BONECA_ENTIDADE
+
+yoyo - ANJO
 
 
 NPC & OTHER OFC
