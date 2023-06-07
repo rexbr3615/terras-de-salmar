@@ -16,12 +16,7 @@ h2 {
     height: 14;
 }
 
-nav
-{
-      display: flex;
-      justify-content: space-between;
-      padding: 20px;
-}
+
 
 blockquote {
     background: #0f0b0b;
