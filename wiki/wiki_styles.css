@@ -1,0 +1,67 @@
+body {
+    font-family:helvetica;
+    background-color:rgb(37, 37, 37);   
+}
+
+p {
+    color: azure;
+    word-spacing: 2;
+    height: 14;
+    font-size: 100%; 
+}
+
+h2 {
+    color: azure;
+    word-spacing: 2;
+    height: 14;
+}
+
+nav
+{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+}
+
+blockquote {
+    background: #0f0b0b;
+    padding: 0.5em 10px;
+    display: flexbox;
+    border: 2px solid rgb(48, 36, 36);
+    gap: 12px;
+    padding: 1px 16px 32px 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+blockquote p 
+{
+   color: azure; 
+   display: flex;
+   word-spacing: 2;
+   height: 14;
+}
+
+button
+{
+height: 60px;
+background-color: black;
+border: 2.5px solid white;
+font-family: helvetica;
+align-items: center;
+gap: 12px;
+height: 40px;
+padding: 0 16px 0 12px;
+}
+
+li {
+    margin-left: 16px;
+}
+
+a:hover {
+    color: rgb(156, 50, 255);
+  }
+  
+  a {
+      color: rgb(255, 72, 0); 
+  }
