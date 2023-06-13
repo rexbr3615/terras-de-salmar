@@ -1,7 +1,7 @@
 
 
 
-var Version = 0.39;
+var Version = 0.48;
 var Vname = "Eclypse Version - ";
 var VVVV = Version != Vname;
 
