@@ -23,12 +23,13 @@ ayumi - cabelo.castanho   olhos.verde_esmeralda   Y_a.8   Y_current.15  {PLAZMA}
 
 leon - cabelo.azul olhos.verde y_a.12  Y_current.19 {WATER} M HUMANO
 
-crystal - cabelo.cristaline_dark&white olhos.cristaline_gold y.16 {------} F BONECA_ENTIDADE
+crystal - cabelo.cristaline_dark&white olhos.cristaline_gold y.16 {------} F BONECA_ENTIDADE [Lara familiar]
 
 yoyo - ANJO
 
 Shiro - marrom marrom y.17 {++IMAGINARY}{-+UNKNOWN} HUMANA
 
+lara - dark blue y.17 {++IMAGINARY}{-+UNKNOWN} HUMANA
 
 NPC & OTHER OFC
 
